@@ -133,13 +133,6 @@ def lambda_handler(event, context):
     }
 ```
 
-### Setting Environment Variables in AWS Lambda
-
-1. Go to the AWS Lambda console.
-2. Select your Lambda function.
-3. Click on the "Configuration" tab.
-4. Scroll down to the "Environment variables" section.
-5. Click "Edit" and add the necessary environment variables.
 
 ### CloudWatch Event Rule
 
